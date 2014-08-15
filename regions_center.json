@@ -1,4 +1,6 @@
-[{
+{
+    "type":"FeatureCollection","features":
+    [{
     "type": "Feature",
     "properties": {
         "name": "Coors Field",
@@ -19,3 +21,4 @@
         "coordinates": [-104.98404, 39.74621]
     }
 }]
+}
