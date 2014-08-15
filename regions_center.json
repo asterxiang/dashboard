@@ -1,4 +1,4 @@
-var someFeatures = [{
+[{
     "type": "Feature",
     "properties": {
         "name": "Coors Field",
@@ -18,4 +18,4 @@ var someFeatures = [{
         "type": "Point",
         "coordinates": [-104.98404, 39.74621]
     }
-}];
+}]
