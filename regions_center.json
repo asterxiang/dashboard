@@ -1,11 +1,21 @@
-[{
+var someFeatures = [{
     "type": "Feature",
     "properties": {
-        "region": "Miami",
-        "211_center": "1"
+        "name": "Coors Field",
+        "show_on_map": true
     },
     "geometry": {
         "type": "Point",
-        "coordinates": [25.55357, -81.4927]
-    }}]
-	
+        "coordinates": [-104.99404, 39.75621]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "name": "Busch Field",
+        "show_on_map": false
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-104.98404, 39.74621]
+    }
+}];
